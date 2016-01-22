@@ -1,13 +1,33 @@
 # Yltra Flat
 # Icon theme for Linux Operating Systems
 
+# Yltra Flat
+
+
+# Yltra Flat Orange
+
+
+
+
+# Yltra Flat Mint Green
+
+
+![Screenshots](http://i.imgur.com/e6WYFks.jpg)
+
+
+# Yltra Flat Majestic
+
+
+# Yltra Flat Archlinux Blue
+
+
 
 
 # How to install
 
 
 	sudo apt-get install git
-	git clone https://github.com/erikdubois/Ultra-Flat-icons.git
+	git clone https://github.com/erikdubois/Yltra-Flat
 
 Copy/paste the folder inside the hidden folder .icons.
 
