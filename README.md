@@ -3,6 +3,8 @@ Version 2.0
 
 Icon theme for Linux Operating Systems
 
+Rebranding of Ultra Flat icons. Since I have put already days of work in this project, it is in effect no longer the old icon set. Hence the name change to <b>Yltra Flat</b> to show the endusers their is a difference. Credits can be found at the bottom.
+
 # Screenshots
 Most recent developments are on top.
 
@@ -60,9 +62,9 @@ In this manner we are saving also many megabytes and double work (which I hate).
 
 # Tutorials to change colour etc...
 
-I like the original icon set so much I wanted the missing icons to be fixed. 
+If you feel you would like to change Yltra Flat you can do so. In the log file you can see what script codes I have used to make Yltra Flat Archlinux Blue for example.
 
-If you feel you would like to change Yltra Flat you can do so. In the log file you can see what script codes I have used. With some common sense and scripting you can have an new colour for icons in no time. Share your work afterwards with the linux community.
+With some common sense and scripting you can have an new colour for icons in no time. Share your work afterwards with the linux community.
 
 In the meantime I made 5 tutorial movies so you know how to change any icon theme if there are icons missing you like to have.
 
