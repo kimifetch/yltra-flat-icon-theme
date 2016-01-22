@@ -1,5 +1,6 @@
 # Yltra Flat 
 Version 2.0
+number of icon sets : 5
 
 Icon theme for Linux Operating Systems
 
