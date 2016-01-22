@@ -47,7 +47,18 @@ Select it with your favourite tool.
 Done
 
 
-![Screenshots](http://i.imgur.com/xrEc2gA.jpg)
+# How is it managed
+
+To be able to manage this icon set <b>Yltra Flat</b> is the main icon set. All the others inherit icons from <b>Yltra Flat</b>. 
+Other icon sets will have different folder colours but all other icons come from the main one.
+
+If you fix an app icon it will be fixed for all icon sets.
+
+In this manner we are saving also many megabytes and double work (which I hate).
+
+
+
+# Tutorials to change colour etc...
 
 I like this icon set so much I wanted the missing icons to be fixed. 
 
