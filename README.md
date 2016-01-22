@@ -1,5 +1,21 @@
-# Yltra Flat
+# Yltra Flat 
+# Version 2.0
 # Icon theme for Linux Operating Systems
+
+# Screenshots
+Most recent developments are on top.
+
+
+# Yltra Flat Archlinux Blue
+
+![Screenshots](http://i.imgur.com/b2XUxsr.jpg)
+
+
+# Yltra Flat Majestic
+
+![Screenshots](http://i.imgur.com/t7Q93sy.jpg)
+
+
 
 # Yltra Flat
 
@@ -16,17 +32,6 @@
 # Yltra Flat Mint Green
 
 ![Screenshots](http://i.imgur.com/e6WYFks.jpg)
-
-
-
-# Yltra Flat Majestic
-
-![Screenshots](http://i.imgur.com/t7Q93sy.jpg)
-
-
-# Yltra Flat Archlinux Blue
-
-![Screenshots](http://i.imgur.com/b2XUxsr.jpg)
 
 
 
@@ -121,13 +126,6 @@ Naming the index.theme and the folder are the two steps.
 [![Ultra flat icon orange to gray majestic](http://i.imgur.com/coFELGt.jpg)](https://www.youtube.com/watch?v=rN-Ac0tsqD4 "Ultra flat icon orange to gray majestic - Click to Watch!")
 
 
-
-# Icons of Majestic theme
-
-I conformed some of the most visual icons to the gray majestic look.
-
-
-![Screenshots](http://i.imgur.com/o6xIRw9.jpg)
 
 # Credits
 
