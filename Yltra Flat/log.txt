@@ -1,3 +1,8 @@
+Version 2.1 02/01/2016
+added pidgin icon
+
+
+
 Version 2.0 02/01/2016
 
 New icon set with arch blue
