@@ -1,5 +1,6 @@
 Version 2.1 02/01/2016
 added pidgin icon
+link to system-login
 
 
 
