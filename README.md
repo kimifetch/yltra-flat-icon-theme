@@ -7,7 +7,7 @@ Icon theme for Linux Operating Systems
 
 Rebranding of Ultra Flat icons (3 icon sets). Since I have put already days of work in this project, it is in effect no longer the old icon set. Hence the name change to <b>Yltra Flat</b> to show the endusers their is a difference. Credits can be found at the bottom.
 
-# Screenshots
+# Screenshots on Linux Mint 17.3 Cinnamon
 Most recent developments are on top.
 
 
@@ -35,6 +35,14 @@ Most recent developments are on top.
 # Yltra Flat
 
 ![Screenshots](http://i.imgur.com/WONWGqL.jpg)
+
+
+
+# Screenshots on other systems
+
+# Linux Mint 17.3 with i3
+
+![Screenshots](http://i.imgur.com/CgorIqo.jpg)
 
 
 
