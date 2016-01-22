@@ -1,0 +1,58 @@
+Version 2.0 02/01/2016
+
+New icon set with arch blue
+
+made on basis of Yltra Orange
+with following scripts
+
+large orange rectangular orange to arch blue
+find -type f -name "*.svg" -exec sed -i 's/fill:#ef7e2c/fill:#1793d1/g' {} \;
+
+Small rectangular on top a bit lighter
+find -type f -name "*.svg" -exec sed -i 's/fill:#bb5912/fill:#04b6e4/g' {} \;
+
+Logo's on folders
+find -type f -name "*.svg" -exec sed -i 's/fill:#9f5722/fill:#cbe6fb/g' {} \;
+
+
+
+
+
+
+Added action icons to Yltra Flat Orange to have all folders in orange also right-mouse-click
+
+
+
+Version 1.1 02/01/2016
+
+Ultra Flat Icon renamed to Yltra Flat Icon 
+Was a typo but in this way their is an difference to the enduser.
+No disregard and respect to the original creators.
+
+added missing links for linux mint 17.3 cinnamon
+link to updatemanager
+link to mintupdate
+link to boot-repair
+link to locale
+link to gnome-panel
+link to vmware-player
+link to vmware-netconfig
+
+
+added kazam
+added focuswriter
+added logo mint
+added boot-repair
+added locale
+added gpick 
+added panel
+added mint icon
+added imagewriter
+
+
+changed atom a bit
+
+fixing the .theme files
+erasing all the unused svg's
+inheriting the other themes to speed up work load and save megabytes
+
