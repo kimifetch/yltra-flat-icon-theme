@@ -1,20 +1,6 @@
-# Ultra Flat Icon Theme 
+# Yltra Flat
+# Icon theme for Linux Operating Systems
 
-Icon set originally from steftrikia on gnome-look.org
-
-Version 1.3.4
-
-https://www.dropbox.com/s/35k1ckffe17ba8r/ultra-flat-icons-1.3.4.tar.gz
-
-I think this is the latest version - from november 2015 found on http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
-
-https://www.dropbox.com/s/bx42h8a1o48w7e0/Ultra-Flat-Theme.tar.gz
-
-or
-
-	sudo add-apt-repository ppa:noobslab/icons
-	sudo apt-get update
-	sudo apt-get install ultra-flat-icons ultra-flat-icons-orange ultra-flat-icons-green
 
 
 # How to install
@@ -115,3 +101,22 @@ I conformed some of the most visual icons to the gray majestic look.
 
 
 ![Screenshots](http://i.imgur.com/o6xIRw9.jpg)
+
+# Credits
+
+Started out as a small change at 
+https://github.com/erikdubois/Ultra-Flat-Icons
+
+In the meantime days of work have gone into it. Two icon theme have been added in January 2015. A new branding was in order. 
+
+Yltra Flat was a TYPO but set the idea in my head to tell endusers that it is no longer the same icon theme.
+
+Icon set originally from steftrikia on gnome-look.org
+
+Version 2.0
+
+https://www.dropbox.com/s/35k1ckffe17ba8r/ultra-flat-icons-1.3.4.tar.gz
+
+I think this is the latest version - from november 2015 found on http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
+
+https://www.dropbox.com/s/bx42h8a1o48w7e0/Ultra-Flat-Theme.tar.gz
