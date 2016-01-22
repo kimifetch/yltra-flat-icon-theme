@@ -40,7 +40,7 @@ Most recent developments are on top.
 
 # Screenshots on other systems
 
-# Linux Mint 17.3 with i3
+# Yltra Flat Archlinux Blue on Linux Mint 17.3 with i3
 
 ![Screenshots](http://i.imgur.com/CgorIqo.jpg)
 
