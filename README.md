@@ -41,11 +41,12 @@ Most recent developments are on top.
 
 # How to install
 
+Download button at top right or via git.
 
 	sudo apt-get install git
 	git clone https://github.com/erikdubois/Yltra-Flat
 
-Copy/paste the folder inside the hidden folder .icons.
+Copy/paste the Yltra Flat folders inside the hidden folder .icons.
 
 Select it with your favourite tool.
 Done
@@ -56,23 +57,25 @@ Done
 To be able to manage this icon set <b>Yltra Flat</b> is the main icon set. All the others inherit icons from <b>Yltra Flat</b>. 
 Other icon sets will have different folder colours but all other icons come from the main one.
 
-If you fix an app icon it will be fixed for all icon sets.
+If you fix an app icon, it will be fixed for all icon sets.
 
 In this manner we are saving also many megabytes and double work (which I hate).
 
 
 
-# Tutorials to change colour etc...
+# Tutorials
 
-If you feel you would like to change Yltra Flat you can do so. In the log file you can see what script codes I have used to make Yltra Flat Archlinux Blue for example.
+If you like to change Yltra Flat, you can do so. In the log file you can see what script codes I have used to make Yltra Flat Archlinux Blue for example.
 
-With some common sense and scripting you can have an new colour for icons in no time. Share your work afterwards with the linux community.
+With some common sense and scripting you can have a new colour for icons in no time. Share your work afterwards with the linux community.
 
-In the meantime I made 5 tutorial movies so you know how to change any icon theme if there are icons missing you like to have.
+I made 5 tutorial movies so you know how to change any icon theme if there are icons missing you like to have.
 
 This is the playlist link on youtube.
 
 Contents of movie
+
+This movie is using the old naming - ultra-flat but that does not matter for the content.
 
 <b>A playlist of 5 tutorials to tell you how to fix icons in Linux Mint 17.3 that do not follow the icon theme.  Ultra Flat Icons Orange as example.</b>
 
@@ -115,7 +118,7 @@ Paste this in the terminal in the folder. It is for the grey Input Method icon (
 
 # How to change the icons the way you want.
 
-These dark gray icons are not standard in the theme.
+These dark gray icons (Yltra Flat Majestic) are not standard in the theme.
 With some minor scripting knowledge you can change any svg icon theme.
 
 	find -name "*.svg" -exec sed -i 's/fill:#ef7e2c/fill:#5f5f5f/g' {}  \;
@@ -149,7 +152,7 @@ Naming the index.theme and the folder are the two steps.
 Started out as a small change at 
 https://github.com/erikdubois/Ultra-Flat-Icons
 
-In the meantime days of work have gone into it. Two icon theme have been added in January 2015. A new branding was in order. 
+In the meantime days of work have gone into it. Two new icon themes have been added in January 2015. A new branding was in order. 
 
 Yltra Flat was a TYPO but set the idea in my head to tell endusers that it is no longer the same icon theme.
 
