@@ -1,6 +1,6 @@
 # Yltra Flat 
 Version 2.0
-# Icon theme for Linux Operating Systems
+Icon theme for Linux Operating Systems
 
 # Screenshots
 Most recent developments are on top.
