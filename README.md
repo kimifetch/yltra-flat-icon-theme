@@ -43,7 +43,7 @@ Most recent developments are on top.
 
 
 
-# Ubuntu 15.10 Ultra Flat 
+# Ubuntu 15.10 Yltra Flat 
 
 ![Screenshots](http://i.imgur.com/1cJ08de.jpg)
 
