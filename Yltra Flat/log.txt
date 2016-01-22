@@ -61,4 +61,3 @@ changed atom a bit
 fixing the .theme files
 erasing all the unused svg's
 inheriting the other themes to speed up work load and save megabytes
-

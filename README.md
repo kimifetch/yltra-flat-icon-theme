@@ -1,5 +1,5 @@
 # Yltra Flat 
-Version 2.1
+Version 2.2
 
 number of icon sets : 5
 
