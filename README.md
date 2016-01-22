@@ -60,7 +60,9 @@ In this manner we are saving also many megabytes and double work (which I hate).
 
 # Tutorials to change colour etc...
 
-I like this icon set so much I wanted the missing icons to be fixed. 
+I like the original icon set so much I wanted the missing icons to be fixed. 
+
+If you feel you would like to change Yltra Flat you can do so. In the log file you can see what script codes I have used. With some common sense and scripting you can have an new colour for icons in no time. Share your work afterwards with the linux community.
 
 In the meantime I made 5 tutorial movies so you know how to change any icon theme if there are icons missing you like to have.
 
