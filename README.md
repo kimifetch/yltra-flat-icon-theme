@@ -5,7 +5,7 @@ number of icon sets : 5
 
 Icon theme for Linux Operating Systems
 
-Rebranding of Ultra Flat icons. Since I have put already days of work in this project, it is in effect no longer the old icon set. Hence the name change to <b>Yltra Flat</b> to show the endusers their is a difference. Credits can be found at the bottom.
+Rebranding of Ultra Flat icons (3 icon sets). Since I have put already days of work in this project, it is in effect no longer the old icon set. Hence the name change to <b>Yltra Flat</b> to show the endusers their is a difference. Credits can be found at the bottom.
 
 # Screenshots
 Most recent developments are on top.
