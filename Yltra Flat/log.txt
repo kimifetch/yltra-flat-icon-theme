@@ -1,4 +1,4 @@
-Version 2.2 02/01/2016
+Version 2.2 22/01/2016
 Added hundreds of links to make sure other operating systems have the icons as well
 
 changed locale icon to be the correct one in settings
@@ -11,7 +11,7 @@ changed variety icon
 
 
 
-Version 2.0 02/01/2016
+Version 2.0 21/01/2016
 
 New icon set with arch blue
 
@@ -36,7 +36,7 @@ Added action icons to Yltra Flat Orange to have all folders in orange also right
 
 
 
-Version 1.1 02/01/2016
+Version 1.1 20/01/2016
 
 Ultra Flat Icon renamed to Yltra Flat Icon 
 Was a typo but in this way their is an difference to the enduser.
