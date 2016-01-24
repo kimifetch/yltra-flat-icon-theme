@@ -1,3 +1,8 @@
+Version 2.3.1
+
+Pragha icon added
+changed kazam icon
+
 Version 2.3 24/1/2016
 
 Tested on Antergos XFCE
