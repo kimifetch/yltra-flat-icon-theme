@@ -1,4 +1,11 @@
 # Yltra Flat 
+
+Version 2.4
+
+Checked Yltra Flat on Antergos Gnome
+
+7 icons changed
+
 Version 2.3.1
 
 number of icon sets : 5
