@@ -4,13 +4,6 @@ Version 2.4
 
 06/02/216
 
-Checked Yltra Flat on Antergos Gnome
-
-7 icons changed
-
-Version 2.3.1
-
-number of icon sets : 5
 
 Icon theme for Linux Operating Systems
 
