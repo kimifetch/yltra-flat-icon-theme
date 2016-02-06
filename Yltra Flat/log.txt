@@ -1,3 +1,22 @@
+Version 2.4 06/02/2016
+
+antergos gnome check 
+
+gtk3-widget-factory
+indicator-weather
+update-manager
+
+
+
+Version 2.4  05/02/2016
+
+antergos gnome check 
+added
+katomic icon 
+google-play-books link
+
+
+
 Version 2.3.1
 
 Pragha icon added
