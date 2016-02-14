@@ -1,8 +1,8 @@
 # Yltra Flat 
 
-Version 2.4
+Version 2.5
 
-06/02/216
+14/02/216
 
 
 Icon theme for Linux Operating Systems
